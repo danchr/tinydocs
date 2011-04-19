@@ -1,0 +1,9 @@
+syntax: glob
+
+CVS
+*.pyc
+indexes/production
+indexes/development
+.ropeproject
+tinydocs.dev.db
+uploads
